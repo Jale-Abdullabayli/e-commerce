@@ -1,0 +1,23 @@
+@font-face {
+    font-family: elo;
+    src: url(BunueloCleanPro-Bold.eot);
+    src: url(BunueloCleanPro-Bold.eot?#iefix) format('embedded-opentype'), url(BunueloCleanPro-Bold.woff) format('woff'), url(BunueloCleanPro-Bold.ttf) format('truetype'), url(BunueloCleanPro-Bold.svg#8e88f0e044dee3af8b27800ff1eb8ea8) format('svg');
+    font-style: normal;
+    font-weight: 700
+}
+
+@font-face {
+    font-family: elo;
+    src: url(BunueloCleanPro-Heavy.eot);
+    src: url(BunueloCleanPro-Heavy.eot?#iefix) format('embedded-opentype'), url(BunueloCleanPro-Heavy.woff) format('woff'), url(BunueloCleanPro-Heavy.ttf) format('truetype'), url(BunueloCleanPro-Heavy.svg#afd1c8fbbcd8b4d4c4d012dd71edeb53) format('svg');
+    font-style: normal;
+    font-weight: 900
+}
+
+@font-face {
+    font-family: elo;
+    src: url(BunueloCleanPro-Regular.eot);
+    src: url(BunueloCleanPro-Regular.eot?#iefix) format('embedded-opentype'), url(BunueloCleanPro-Regular.woff) format('woff'), url(BunueloCleanPro-Regular.ttf) format('truetype'), url(BunueloCleanPro-Regular.svg#9240c2a883fb4a738815a097fa2d0bb6) format('svg');
+    font-style: normal;
+    font-weight: 400
+}
