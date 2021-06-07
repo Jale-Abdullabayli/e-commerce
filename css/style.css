@@ -743,6 +743,12 @@ footer .footerBottom .socialCol i {
     align-items: flex-start !important;
     justify-content: flex-start;
   }
+  nav .dropdown .dropdown_container {
+    display: none;
+    position: relative;
+    opacity: 1;
+    top: 0 !important;
+  }
   nav .dropdown:hover .dropdown_container {
     height: auto !important;
     padding: 0 0 20px 0 !important;

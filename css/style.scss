@@ -866,7 +866,12 @@ footer {
             flex-direction: column;
             align-items: flex-start !important;
             justify-content: flex-start;
-
+.dropdown_container{
+    display: none;
+    position: relative;
+    opacity: 1;
+    top: 0 !important;
+}
             &:hover {
                 .dropdown_container {
                     height: auto !important;
